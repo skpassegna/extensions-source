@@ -2,7 +2,7 @@
 
 | Build                                                                                                                                                                               | Support Server                                                                                                                                              |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![CI](https://github.com/keiyoushi/extensions-source/actions/workflows/build_push.yml/badge.svg)](https://github.com/keiyoushi/extensions-source/actions/workflows/build_push.yml) | [![Discord](https://img.shields.io/discord/1193460528052453448.svg?label=discord&labelColor=7289da&color=2c2f33&style=flat)](https://discord.gg/3FbCpdKbdY) |
+| [![CI](https://github.com/skpassegna/extensions-source/actions/workflows/build_push.yml/badge.svg)](https://github.com/skpassegna/extensions-source/actions/workflows/build_push.yml) | [![Discord](https://img.shields.io/discord/1193460528052453448.svg?label=discord&labelColor=7289da&color=2c2f33&style=flat)](https://discord.gg/3FbCpdKbdY) |
 
 # Usage
 
@@ -10,7 +10,7 @@
 
 # Requests
 
-To request a new source or bug fix, [create an issue](https://github.com/keiyoushi/extensions-source/issues/new/choose).
+To request a new source or bug fix, [create an issue](https://github.com/skpassegna/extensions-source/issues/new/choose).
 
 Please note that creating an issue does not mean that the source will be added or fixed in a timely
 fashion, because the work is volunteer-based. Some sources may also be impossible to do or prohibitively
@@ -23,7 +23,7 @@ Issues are up-for-grabs for any developer if there is no assigned user already.
 
 Contributions are welcome!
 
-Check out the repo's [issue backlog](https://github.com/keiyoushi/extensions-source/issues) for source requests and bug reports.
+Check out the repo's [issue backlog](https://github.com/skpassegna/extensions-source/issues) for source requests and bug reports.
 
 ## License
 
